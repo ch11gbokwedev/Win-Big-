@@ -1,2 +1,2 @@
-# Win-Big!
-Here's a slot machine that I made.
+# Win Big!
+A slot machine that I made with Javascript.
